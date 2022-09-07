@@ -1,4 +1,4 @@
-fetch("http://<172.18.54.173>:52005/api/boxlast/v1/trigger", {
+fetch("https://my-json-server.typicode.com/%3Choldenaaron93/Packsizefakeapi%3E", {
   method: "RAW",
   body: {
 "ProductionGroup":"PG2",
