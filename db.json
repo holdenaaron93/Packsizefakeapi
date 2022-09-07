@@ -3,4 +3,5 @@ fetch('http://<172.18.54.173>:52005/api/boxlast/v1/trigger' ,{
   body: {
 "ProductionGroup":"PG2",
 "CustomerUniqueId":"12345"
-}
+}}
+      )
